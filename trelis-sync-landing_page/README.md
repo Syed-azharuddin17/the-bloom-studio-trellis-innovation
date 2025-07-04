@@ -5,7 +5,7 @@ This is a *responsive React + Tailwind CSS* landing page for *Trelis Sync*, a re
 
  📸 Preview
 
-![Landing Page Preview](./public/preview.png)
+
 
 ---
 
